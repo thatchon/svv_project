@@ -1,0 +1,17 @@
+.wrapper{
+    height: calc(100vh - 128px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url("https://media.discordapp.net/attachments/895504884374331412/1096724254613065809/IMG_1434.PNG?width=529&height=529"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.hero-text {
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+

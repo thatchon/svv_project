@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=1",
+      "name": "Kelly Johnsd",
+      "email": "a@a.a",
+      "password": "a@a.a",
+      "phone": "+1 (977) 521-4",
+      "isVip": false,
+      "money": 2376.0865000000003,
+      "isAdmin": true
+    },
+    {
+      "id": "c3cd55ff-03e8-4e06-b4ee-fab89847958c",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=2",
+      "name": "Tami Carlson",
+      "email": "tamicarlson@caxt.com",
+      "password": "a@a.a",
+      "phone": "+1 (988) 494-2020",
+      "isVip": false,
+      "money": 510,
+      "isAdmin": false
+    },
+    {
+      "id": "c5a4e854-9689-4eb0-979a-12212d838d2b",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=3",
+      "name": "Rosemarie Schneider",
+      "email": "rosemarieschneider@caxt.com",
+      "password": "a@a.a",
+      "phone": "+1 (942) 477-2273",
+      "isVip": false,
+      "money": 420,
+      "isAdmin": false
+    },
+    {
+      "id": "70ad681a-75b0-4f05-8f80-cd5f36de57df",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=4",
+      "name": "Silva Patton",
+      "email": "silvapatton@caxt.com",
+      "password": "a@a.a",
+      "phone": "+1 (941) 545-2163",
+      "isVip": false,
+      "money": 689.66,
+      "isAdmin": false
+    },
+    {
+      "id": "7cb88485-534b-4f61-a8e3-07a7fa3bd47f",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=5",
+      "name": "Bertha Gray",
+      "email": "berthagray@caxt.com",
+      "password": "a@a.a",
+      "phone": "+1 (861) 443-2680",
+      "isVip": false,
+      "money": 1000,
+      "isAdmin": false
+    },
+    {
+      "imageUrl": " https://picsum.photos/200/300?random=0.796556609242159",
+      "name": "test@test.test",
+      "email": "test@test.test",
+      "phone": "test@test.test",
+      "password": "test@test.test",
+      "isVip": false,
+      "money": 9992.76,
+      "id": "3NZDb6-",
+      "isActive": true
+    },
+    {
+      "imageUrl": " https://picsum.photos/200/300?random=0.9455842096719171",
+      "name": "Thatchon Charoenpuwadol",
+      "email": "test@test.com",
+      "phone": "0970404753",
+      "password": "1123",
+      "isVip": false,
+      "money": 998729,
+      "isActive": true,
+      "isAdmin": false,
+      "id": "S_HEPQV"
+    }
+  ],
+  "cars": [
+    {
+      "isActive": true,
+      "imageUrl": "https://media-kiwis.monline.com/media/catalog/product/cache/4eae07c2f68a268511cfb4de77370966/p/r/product-2f98280b-437c-45d9-8418-ac809780094d.jpg",
+      "brand": "เทสโต้",
+      "model": "ขนม",
+      "constructionYear": "2023-04-18",
+      "type": "Facebook",
+      "fuelType": "thatchonn",
+      "seatsCount": "test",
+      "pricePerDay": "5",
+      "count": "10",
+      "ownerId": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "id": "8TMw2Uf"
+    },
+    {
+      "isActive": true,
+      "imageUrl": "https://www.jib.co.th/img_master/product/original/2020070913340741159_1.jpg",
+      "brand": "WIRELESS MOUSE (เมาส์ไร้สาย) LOGITECH G PRO WIRELESS (BLACK)",
+      "model": "เมาส์",
+      "constructionYear": "",
+      "type": "Instagram",
+      "fuelType": "thatchonn",
+      "seatsCount": "PRO Wireless was designed to be the ultimate gaming mouse for esports professionals. Over a 2 year period, Logitech G collaborated with more than 50 professional players to find the perfect shape, weight and feel combined with our LIGHTSPEED wireless and HERO 16k sensor technologies. The result is a gaming mouse with unrivaled performance and precision, giving you the tools and confidence needed to win.",
+      "pricePerDay": "500",
+      "count": 1,
+      "ownerId": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "id": "guBAWtx",
+      "carInfo": "WIRELESS MOUSE (เมาส์ไร้สาย) LOGITECH G PRO WIRELESS (BLACK) - เมาส์"
+    }
+  ],
+  "rentals": [
+    {
+      "id": "asdfa9c7-b5bb-4d3c-a451-825c03b12987",
+      "userId": "3NZDb6-",
+      "carId": "A5dDiED",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "Returned",
+      "totalCost": 100
+    },
+    {
+      "userId": "S_HEPQV",
+      "carId": "guBAWtx",
+      "startDate": "2023-04-17",
+      "endDate": "2023-04-18",
+      "status": "Returned",
+      "totalCost": 1000,
+      "id": "pxqQkVh"
+    }
+  ]
+}
